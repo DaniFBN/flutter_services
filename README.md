@@ -1,39 +1,51 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# Flutter Services
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages).
+It's a repo to organize a lot of services(packages abstraction) to facility the copy paste from apps.
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages).
--->
+## Services
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+### Firebase - Auth
 
-## Features
+Status: Done ✓
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+### Firebase - Crashlytics
 
-## Getting started
+Status: Done ✓
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+### Firebase - Storage
 
-## Usage
+Status: Done ✓
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
+### Firebase - Performance
 
-```dart
-const like = 'sample';
-```
+Status: Done ✓
 
-## Additional information
+### Firebase - Firestore
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+Status: Done ✓
+
+### Firebase - Messaging -
+
+Status: ToDo 𐄂
+
+### Firebase - Database
+
+Status: ToDo 𐄂
+
+### Firebase - AppCheck
+
+Status: ToDo 𐄂
+
+### Firebase - Analytics
+
+Status: ToDo 𐄂
+
+### Firebase - RemoteConfig
+
+Status: ToDo 𐄂
+
+### Firebase - Functions
+
+Status: ToDo 𐄂
+
+### Firebase - InAppMessaging
