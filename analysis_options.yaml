@@ -1,4 +1,10 @@
 include: package:flutter_lints/flutter.yaml
 
-# Additional information about this file can be found at
-# https://dart.dev/guides/language/analysis-options
+linter:
+  rules:
+    - prefer_relative_imports
+    - use_super_parameters
+    - only_throw_errors
+    - directives_ordering
+    - prefer_single_quotes
+    - avoid_escaping_inner_quotes
